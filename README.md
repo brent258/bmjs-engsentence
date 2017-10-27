@@ -1,2 +1,8 @@
 # bmjs-engsentence
-English utility for generating sentences.
+An English utility object with methods designed for generating different sentence elements.
+
+*Example usage:*
+```javascript
+const sentence = require('bmjs-engsentence');
+
+```

@@ -1,0 +1,34 @@
+{
+  "name": "bmjs-engsentence",
+  "version": "1.0.0",
+  "description": "An English utility object with methods designed for generating different sentence elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brent258/bmjs-engsentence.git"
+  },
+  "keywords": [
+    "PKG",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Brent McCoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brent258/bmjs-engsentence/issues"
+  },
+  "homepage": "https://github.com/brent258/bmjs-engsentence#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "bmjs-engperson": "^1.0.0",
+    "bmjs-engpronouns": "^1.0.0",
+    "bmjs-engverb": "^1.0.2",
+    "bmjs-random": "^1.0.0"
+  }
+}
