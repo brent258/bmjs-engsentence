@@ -1,0 +1,11 @@
+{
+  "prefix": ["1 {}"],
+  "singular": ["2 {}"],
+  "plural": ["3 {}"],
+  "break": ["4 {}"],
+  "suffix": ["5 {}"],
+  "phrasalVerbInfinitive": ["6 {}"],
+  "phrasalVerbGerund": ["7 {}"],
+  "beforeAdverb": ["8 {}"],
+  "afterAdverb": ["9 {}"]
+}

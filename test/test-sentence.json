@@ -1,0 +1,26 @@
+{
+  "sentenceObj": {
+    "subject": ["Bill"],
+    "subjectPronoun": "he",
+    "verb": ["be"],
+    "verbOptions": [0,0,0],
+    "tense": "present",
+    "complement": ["happy"],
+    "object": [""],
+    "objectPronoun": "it",
+    "passive": [""],
+    "adverbBefore": [""],
+    "adverbAfter": [""],
+    "adjunctBefore": [""],
+    "adjunctMoveable": [""],
+    "adjunctAfter": [""],
+    "adjunctRequired": false,
+    "conjunctionBefore": [""],
+    "conjunctionMoveable": [""],
+    "conjunctionAfter": [""]
+  },
+  "pathOne": "",
+  "keywordOne": "",
+  "pathTwo": "",
+  "keywordTwo": ""
+}
